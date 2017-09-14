@@ -16,7 +16,7 @@ Source code is hosted on this GitHub repository. The program is built and tested
 ```bash
 git clone --recursive https://github.com/jiangzhongshi/scaffold-map.git
 ```
-### Building
+### Building [![Build Status](https://travis-ci.org/jiangzhongshi/scaffold-map.svg)](https://travis-ci.org/jiangzhongshi/scaffold-map)
 
 To build the program, you can use the CMakeLists.txt in
 the root folder:
